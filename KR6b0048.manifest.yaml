@@ -1,0 +1,195 @@
+canonical_identifier: bkk:krp/KR6b0048/v1
+canonical_location: https://kanripo.org/bkk/KR6b0048/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 眾許摩訶帝經
+  identifiers:
+    alt_id:
+    - T03n0191
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T03/T03n0191.xml
+    old_id: T03n0191
+  edition:
+    short: bkk
+editions:
+- short: 明
+  label: 明
+  source_xml_id: wit1
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: 宋
+  label: 宋
+  source_xml_id: wit3
+- short: 元
+  label: 元
+  source_xml_id: wit4
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6b0048_000.yaml, hash: 'sha256:5daad183c5b3b1879e3c58cfb959ac52a16a636455e193bb27acd6a07723103d'}
+  - {seq: 1, filename: KR6b0048_001.yaml, hash: 'sha256:377d89c5ab43a567d7f59fd2eafb0048965b1946119bf150c3186bf0add804a6'}
+  - {seq: 2, filename: KR6b0048_002.yaml, hash: 'sha256:d3f007a5ce4d79af53eb425b05af4562c300d4d757fa072592edad5d3dc17030'}
+  - {seq: 3, filename: KR6b0048_003.yaml, hash: 'sha256:a10b91ec42bb6759319befdc797707f7a3839b70626aad22e6bf78de6f91eaeb'}
+  - {seq: 4, filename: KR6b0048_004.yaml, hash: 'sha256:7da1fce0dcfe3b73ed80ccfe1db0ce80577a48bb86e1d53e68dd9d22f15dffcc'}
+  - {seq: 5, filename: KR6b0048_005.yaml, hash: 'sha256:4e193192db831fd987b0e954da3b6e21bd0ea256b71a56b1d230b66d59a3fe37'}
+  - {seq: 6, filename: KR6b0048_006.yaml, hash: 'sha256:c60379e9949f970a9e70d130d10c35e41347e4236d165ec4f238a9de1ca9f14a'}
+  - {seq: 7, filename: KR6b0048_007.yaml, hash: 'sha256:e2af677fd9bbddc513b8d5765e51f757bbcae2ec0e3d1c9e57dbee556d4984c3'}
+  - {seq: 8, filename: KR6b0048_008.yaml, hash: 'sha256:b4bdd4567c47e57acff21b4e1acb5afc6e9323c091508baca9fbca5ad58e6be7'}
+  - {seq: 9, filename: KR6b0048_009.yaml, hash: 'sha256:e55970b8d7633ec80dd7a6e69cd60077700f92db8174e25b4c6605872c3a2d4c'}
+  - {seq: 10, filename: KR6b0048_010.yaml, hash: 'sha256:c34c293e97dc87850997859ed10ad0425f42c023a1b221b3b837cb4176aec1e8'}
+  - {seq: 11, filename: KR6b0048_011.yaml, hash: 'sha256:fc21dc86b28e1b8b89e2072804516663146c44f32c7091398a8ea3b2ad31498b'}
+  - {seq: 12, filename: KR6b0048_012.yaml, hash: 'sha256:d429bd8d5bb9157babc2ac14718b5036a1ebbd53fb5547497562ffeefc578bee'}
+  - {seq: 13, filename: KR6b0048_013.yaml, hash: 'sha256:3135aed7eefce36da2ac8ff592503844d8307f0896da9f5e4ea67cd970a829d7'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6b0048_001.markers.yaml, hash: 'sha256:913de0d60211bc78d4b341cedd9ba0a38a2c9e28fef4b751318d81fe358438a9'}
+  - {seq: 2, role: markers, filename: assets/KR6b0048_002.markers.yaml, hash: 'sha256:bb06757bf1b735d5bb6f39f152ef98f54d7e8b754a25abce9329d028b0d1bab6'}
+  - {seq: 3, role: markers, filename: assets/KR6b0048_003.markers.yaml, hash: 'sha256:ac237e9f674a2f6820ba062ee03a633f68177778b96a235db072068e1a802ced'}
+  - {seq: 4, role: markers, filename: assets/KR6b0048_004.markers.yaml, hash: 'sha256:5258e1d927b38f8323a082d54d4201b9616710c17d3a7f771384d26f93442ce7'}
+  - {seq: 5, role: markers, filename: assets/KR6b0048_005.markers.yaml, hash: 'sha256:7db91f9c49032185333862d9b538692682f8c2959e6de1a38fbcffbfbce7d63c'}
+  - {seq: 6, role: markers, filename: assets/KR6b0048_006.markers.yaml, hash: 'sha256:7ca8cb7a8d5baa59d7cbf51b5005b374224268488311c069905866131326fd18'}
+  - {seq: 7, role: markers, filename: assets/KR6b0048_007.markers.yaml, hash: 'sha256:f587e65a54b60977800500b4f86708e2f1c66a42f1b0c567866ac238f3e65959'}
+  - {seq: 8, role: markers, filename: assets/KR6b0048_008.markers.yaml, hash: 'sha256:1f3e69e11c6fbcd5b1ba8a4aa72d55c7adfb871fe73901966cdafcb0df767a93'}
+  - {seq: 9, role: markers, filename: assets/KR6b0048_009.markers.yaml, hash: 'sha256:a11b4992554931e7efce4fb69a271e1158642e3bc04c229892551098b9fc9336'}
+  - {seq: 10, role: markers, filename: assets/KR6b0048_010.markers.yaml, hash: 'sha256:0b47949eeb968ae315d6245dc41f32bc5b4e461e8c0a383c166f27e97c216f70'}
+  - {seq: 11, role: markers, filename: assets/KR6b0048_011.markers.yaml, hash: 'sha256:908f9c455af0495759ce56ba2c5b8be60c5089cefc8212c9c9ef6d3f2b0ed3b6'}
+  - {seq: 12, role: markers, filename: assets/KR6b0048_012.markers.yaml, hash: 'sha256:08e572c650dfa8b9f8753ab95532113429bb86d4bbaad02026b59a4312dc4c0f'}
+  - {seq: 13, role: markers, filename: assets/KR6b0048_013.markers.yaml, hash: 'sha256:dbb7de7ddb476894b5d2a3133a6401176c15e36473b6394ac7a4335662e40bb2'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6b0048_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 5069
+  label: 佛說眾許摩訶帝經卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6b0048_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 4396
+  label: 佛說眾許摩訶帝經卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6b0048_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 4548
+  label: 佛說眾許摩訶帝經卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6b0048_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 4075
+  label: 佛說眾許摩訶帝經卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6b0048_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 4071
+  label: 佛說眾許摩訶帝經卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6b0048_T_006-juan-start
+    span:
+    - body
+    - 0
+    - 3823
+  label: 佛說眾許摩訶帝經卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6b0048_T_007-juan-start
+    span:
+    - body
+    - 0
+    - 4746
+  label: 佛說眾許摩訶帝經卷第七
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6b0048_T_008-juan-start
+    span:
+    - body
+    - 0
+    - 4142
+  label: 佛說眾許摩訶帝經卷第八
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6b0048_T_009-juan-start
+    span:
+    - body
+    - 0
+    - 4959
+  label: 佛說眾許摩訶帝經卷第九
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6b0048_T_010-juan-start
+    span:
+    - body
+    - 0
+    - 4161
+  label: 佛說眾許摩訶帝經卷第十
+  type: juan
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6b0048_T_011-juan-start
+    span:
+    - body
+    - 0
+    - 4810
+  label: 佛說眾許摩訶帝經卷第十一
+  type: juan
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6b0048_T_012-juan-start
+    span:
+    - body
+    - 0
+    - 5883
+  label: 佛說眾許摩訶帝經卷第十二
+  type: juan
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6b0048_T_013-juan-start
+    span:
+    - body
+    - 0
+    - 5469
+  label: 佛說眾許摩訶帝經卷第十三
+  type: juan
+  level: 1
+hash: sha256:0c7d8db0a29fe16810696ede55fb4ac358c75a3cc65011723d1f8d6dc0f22ce3
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6b0048/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 眾許摩訶帝經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T03/T03n0191.xml
+    old_id: T03n0191
+hash: sha256:5daad183c5b3b1879e3c58cfb959ac52a16a636455e193bb27acd6a07723103d
